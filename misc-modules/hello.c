@@ -7,7 +7,7 @@ MODULE_LICENSE("Dual BSD/GPL");
 
 static int hello_init(void)
 {
-	printk(KERN_ALERT "Hello, world\n");
+	printk(KERN_ALERT "Hello, world and Ryhig\n");
 	return 0;
 }
 
